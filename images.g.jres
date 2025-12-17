@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAPAAAAAAD/AA8AhN0AAPD//91EhIQAAP/f30SEhADw/9/dSIQAAP//391IhAAA///f30SEhPD////dRISE8A//DwCE3QDwAP8AAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Goku"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAhRgAAADw392I6BgAAP/f34joGADw///diOgAAP///92I6AAAAP/f14joGAAA8N/XiOgYAAAAAACFGAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Vegeta"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
